@@ -1,4 +1,4 @@
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando o projeto
 
 Após clonar o repositório, executar as etapas:
 
